@@ -12,7 +12,7 @@ private:
 
 	bool _IsZero(int Number)
 	{
-		return Number == 0;
+		return Number == 0; 
 	}
 
 public:
