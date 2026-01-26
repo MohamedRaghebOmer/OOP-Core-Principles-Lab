@@ -8,7 +8,7 @@ The goal of this repository is to demonstrate the transition from procedural pro
 ## 🏛️ Core Principles Implemented
 Each folder/module in this repo focuses on a specific pillar:
 
-1.  **Encapsulation:** Protecting data integrity using private attributes and public getters/setters.
+1.  **Encapsulation:** Protecting data integrity using private attributes and public getters/setters. 
 2.  **Abstraction:** Hiding complex implementation details and exposing only necessary interfaces.
 3.  **Inheritance:** Implementing code reusability by creating hierarchical relationships between classes.
 4.  **Polymorphism:** Utilizing method overriding and virtual functions for dynamic, runtime behavior.
