@@ -2,8 +2,12 @@
 
 This repository is a practical journey through the core pillars of **Object-Oriented Programming (OOP)**. It contains a series of targeted exercises for each principle, culminating in a **Comprehensive Lab** that integrates all concepts into a single, cohesive system.
  
+---
+
 ## 🎯 Learning Objectives
 The goal of this repository is to demonstrate the transition from procedural programming to a modular, object-oriented mindset using C++.
+
+---
 
 ## 🏛️ Core Principles Implemented
 Each folder/module in this repo focuses on a specific pillar:
@@ -20,12 +24,6 @@ The highlight of this repository is the **Integrated Lab**. Unlike separate exer
 - How classes interact in a real-world architecture.
 - Using Base and Derived classes to manage specialized behaviors.
 - Handling data persistence or complex logic within an OOP structure.
-
-## 📂 Structure
-- **/Encapsulation-Exercises:** Basics of class design and data hiding.
-- **/Inheritance-Lab:** Practical examples of base and derived classes.
-- **/Polymorphism-Demos:** Late binding and virtual function implementations.
-- **/Full-OOP-Lab:** The final project that connects all the above.
 
 ---
 
